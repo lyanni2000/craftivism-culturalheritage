@@ -1,4 +1,4 @@
-# craftivism-culturalheritage
+# Craftivism, Communication, and Cultural Heritage: Using Craft to Track Cultural Heritage Site Destruction in Iran
 Repository for Purdue Honors College Scholarly Project completed code. This is the completed code used for my project.
 
 ## create_array
